@@ -47,13 +47,3 @@ Evaluated candidate models across Accuracy, Precision, Recall, F1-Score, and ROC
 - **Web App:** Streamlit
 
 ---
-
-## 📁 Repository Structure
-├── app.py                          # Streamlit interactive application script
-├── best_churn_model.joblib         # Saved tuned Random Forest model
-├── scaler.joblib                   # Saved StandardScaler object
-├── WA_Fn-UseC_-Telco-Customer-Churn.csv  # Dataset file
-└── README.md                       # Project documentation
-
-## Name: Arfa Momna
-## Program: Devixo Solutions Summer Internship (AI/ML Track)
